@@ -1,0 +1,32 @@
+{
+  "name": "6mingxin-cli",
+  "version": "1.0.0",
+  "description": "个人基础模板",
+  "main": "index.js",
+  "bin": {
+    "6mx": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": {
+    "name": "6mingxin",
+    "email": "6mingxin@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "chalk": "4.1.2",
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "5.4.1",
+    "util": "^0.12.4"
+  }
+}
