@@ -24,7 +24,7 @@ program
     // 使用 figlet 绘制 Logo
     console.log(
       '\r\n' +
-        figlet.textSync('mingxin', {
+        figlet.textSync('6mingxin', {
           font: 'Ghost',
           horizontalLayout: 'default',
           verticalLayout: 'default',
