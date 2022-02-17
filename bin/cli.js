@@ -33,7 +33,7 @@ program
         })
     )
     // 新增说明信息
-    console.log(`\r\nRun ${chalk.cyan(`mx <command> --help`)} for detailed usage of given command\r\n`)
+    console.log(`\r\nRun ${chalk.cyan(`6mx <command> --help`)} for detailed usage of given command\r\n`)
   })
 
 // 解析用户执行命令传入参数
