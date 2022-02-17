@@ -1,6 +1,6 @@
 {
   "name": "6mingxin-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "个人基础模板",
   "main": "index.js",
   "bin": {
@@ -17,6 +17,10 @@
     "name": "6mingxin",
     "email": "6mingxin@gmail.com"
   },
+  "keywords": [
+    "vue2.x",
+    "vue3.x"
+  ],
   "license": "MIT",
   "dependencies": {
     "axios": "^0.26.0",
